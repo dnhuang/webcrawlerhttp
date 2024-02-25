@@ -7,7 +7,7 @@ This tool is meant to be run on the console, and it prints a "report" showing al
 
 If you wish to use this tool, feel free to fork!
 
-To get started, install depedencies with:
+To get started, install dependencies with:
 ```
 npm install
 ```
